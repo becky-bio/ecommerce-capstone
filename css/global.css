@@ -1,0 +1,67 @@
+*{
+   height
+   width
+  
+}
+
+.container-fluid {
+  background-color:
+
+
+  
+}
+
+.d-flex {
+  background-color:;
+}
+
+.navbar-brand{
+  font-size: xx-large;
+  font-style:
+  
+}
+
+.justify-content-start {
+flex: 1;
+text-decoration-color: #555;
+
+}
+
+.justify-content-start li {
+  text-decoration: none;
+  color: #555;
+}
+
+
+
+.justify-content-end{
+  flex: 1;
+  text-align: right;
+  margin-right: 40px;
+  justify-content: space-between;
+}
+
+
+h1{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.carousel {
+  width:80%;
+  height:20%;
+  padding-left: 5px;
+ }
+
+ footer {
+  padding: 6px;
+  }  
+
+  footer col {
+    padding-top: 6px;
+  }
+  .card {
+    display: inline;
+    max-width: 50px;
+    height: 50%;
+  }
